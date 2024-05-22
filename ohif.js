@@ -29,7 +29,7 @@ window.config = {
         href: '/',
         style: {
           display: 'block',
-          background: 'url(/logo.png)',
+          background: 'url(/logo1.png)',
           backgroundSize: 'contain',
           backgroundRepeat: 'no-repeat',
           width: '200px',
